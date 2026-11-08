@@ -1,6 +1,6 @@
 # EsenceLab
 
-[![CI](https://github.com/sajadinmaker/esencelab/actions/workflows/ci.yml/badge.svg)](https://github.com/sajadinmaker/esencelab/actions/workflows/ci.yml)
+[![CI](https://github.com/sajadxdp/esencelab/actions/workflows/ci.yml/badge.svg)](https://github.com/sajadxdp/esencelab/actions/workflows/ci.yml)
 
 **Resume in, structured skills out, job match computed, recruiter shortlist right behind it.**
 
